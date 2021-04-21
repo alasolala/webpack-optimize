@@ -1,8 +1,7 @@
 {
   "presets": [
     [
-      "@babel/preset-env" //转换es6语法
+      "@babel/preset-env"
     ]
-  ],
-  "plugins":[]
+  ]
 }
